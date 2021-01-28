@@ -18,3 +18,8 @@ git clone https://github.com/icanerdogan/OpenCV-Tutorial
   <li><b><a href="https://github.com/icanerdogan/OpenCV-Tutorial/blob/master/BASIC/5-Operations.ipynb">OpenCV - Operations</a></b></li>
 </ul>  
 
+<h2><a href="https://github.com/icanerdogan/OpenCV-Tutorial"> PROJECTS </a></h2>
+
+<ol>
+  <li><b><a href="https://github.com/icanerdogan/OpenCV-Tutorial/blob/master/1-Photo%20Sketching.ipynb">Photo Sketching</a></b></li>
+</ol>
