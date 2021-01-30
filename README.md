@@ -22,4 +22,5 @@ git clone https://github.com/icanerdogan/OpenCV-Tutorial
 
 <ol>
   <li><b><a href="https://github.com/icanerdogan/OpenCV-Tutorial/blob/master/1-Photo%20Sketching.ipynb">Photo Sketching</a></b></li>
+  <li><b><a href="https://github.com/icanerdogan/OpenCV-Tutorial/blob/master/2-Detect%20Contours.ipynb">Detect Contours</a></b></li>
 </ol>
