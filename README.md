@@ -5,7 +5,7 @@ git clone https://github.com/icanerdogan/OpenCV-Tutorial
 ```
 
 <p align="center">
-  <img src="https://r.resimlink.com/OFj.png" width="800" height="259">
+  <img src="https://r.resimlink.com/DnZmg7.png">
 </p>
 
 <h2><a href="https://github.com/icanerdogan/OpenCV-Tutorial/tree/master/BASIC"> BASIC </a></h2>
